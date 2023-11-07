@@ -4,7 +4,7 @@ eader{
  
 
 body{
-    background-color: linear-gradient(to bottom, white, blue)
+    background: linear-gradient(to bottom, white, blue)
 }
 h1{
     text-align: center;
