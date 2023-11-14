@@ -1,10 +1,25 @@
-eader{
+header{
     background-color: white;
 }
  
+nav{
+font-size: 30px;
+
+
+}
+nav li{
+display: inline-flex;
+margin-left: 30%;
+}
+
+nav li:hover{
+    color: rgb(255, 255, 255);
+}
+
+
 
 body{
-    background: linear-gradient(to bottom, white, blue)
+    background: linear-gradient(to bottom, white, rgb(211, 131, 175))
 }
 h1{
     text-align: center;
